@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with over **3 years of professional experience**, currently working as a **Software Engineer** at Swapp Asia Sdn Bhd (Mlabs Systems Berhad). I specialize in building scalable, user-friendly applications with a strong focus on modern web technologies.
+I'm a passionate **Software Engineer** with over **3 years of professional experience**, currently working at Swapp Asia Sdn Bhd (Mlabs Systems Berhad). I specialize in building scalable, user-friendly applications with a strong focus on modern web technologies.
 
 - 🎓 **Bachelor's Degree** in Computer Science (Software Engineering) with **Honours** from Universiti Tun Hussein Onn Malaysia
 - 💼 Currently working with **Next.js**
